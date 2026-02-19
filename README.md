@@ -1,6 +1,6 @@
 # Документация проекта Schedule
 
-![Экран расписания](Resources/Screenshots/mockup2z.png)
+![Экран расписания](Resources/Screenshots/mockup2.png)
 
 **Версия документа:** 1.0  
 **Дата актуализации:** 19 февраля 2026 г.
