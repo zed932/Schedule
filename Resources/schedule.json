@@ -1,0 +1,416 @@
+{
+  "oddWeek": {
+    "days": [
+      {
+        "weekday": 1,
+        "date": null,
+        "slots": [
+          {
+            "pairNumber": 1,
+            "startTime": "08:00",
+            "endTime": "09:35",
+            "lesson": {
+              "name": "Элективный курс по физической культуре",
+              "type": "practice",
+              "teacher": { "id": "default", "name": "преподаватель" },
+              "room": "спорткомплекс 6 учебного корпуса"
+            },
+            "windowMessage": null
+          },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 2,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 2,
+            "startTime": "09:45",
+            "endTime": "11:20",
+            "lesson": {
+              "name": "Скриптовые языки программирования",
+              "type": "lab",
+              "teacher": { "id": "bukhnin", "name": "Бухнин А.В." },
+              "room": "4403"
+            },
+            "windowMessage": "3 п/гр. - 3, 7, 11, 15 н.; 4 п/гр. - 5, 9, 13, 17 н."
+          },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 4,
+            "startTime": "13:40",
+            "endTime": "15:15",
+            "lesson": {
+              "name": "Теория информации. данные, знания",
+              "type": "lab",
+              "teacher": { "id": "tabakov", "name": "Табаков И.В." },
+              "room": "4307"
+            },
+            "windowMessage": "1 п/гр. - 5, 9, 13, 17 н.; 2 п/гр. - 3, 7, 11, 15 н."
+          },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 3,
+        "date": null,
+        "slots": [
+          {
+            "pairNumber": 1,
+            "startTime": "08:00",
+            "endTime": "09:35",
+            "lesson": {
+              "name": "Методы и средства защиты информации",
+              "type": "lab",
+              "teacher": { "id": "zhukov", "name": "Жуков М.С." },
+              "room": "4404"
+            },
+            "windowMessage": "1 п/гр. - 3, 7, 11, 15 н.; 2 п/гр. - 5, 9, 13, 17 н."
+          },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 3,
+            "startTime": "11:35",
+            "endTime": "13:10",
+            "lesson": {
+              "name": "Электротехника и электроника",
+              "type": "lab",
+              "teacher": { "id": "kalinina", "name": "Калинина Н.А." },
+              "room": "4308"
+            },
+            "windowMessage": "1 п/гр. - 3, 7, 11, 15 н.; 2 п/гр. - 5, 9, 13, 17 н."
+          },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 5,
+            "startTime": "15:25",
+            "endTime": "17:00",
+            "lesson": {
+              "name": "Скриптовые языки программирования",
+              "type": "lecture",
+              "teacher": { "id": "bukhnin", "name": "Бухнин А.В." },
+              "room": "1329"
+            },
+            "windowMessage": "1 п/гр. - 2, 6, 10, 14 н.; 2 п/гр.: нч Программирование на Python лаб. а.5408"
+          },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 4,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 2,
+            "startTime": "09:45",
+            "endTime": "11:20",
+            "lesson": {
+              "name": "Теория информации. данные, знания",
+              "type": "lecture",
+              "teacher": { "id": "tabakov", "name": "Табаков И.В." },
+              "room": "6259"
+            },
+            "windowMessage": null
+          },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 5,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 2,
+            "startTime": "09:45",
+            "endTime": "11:20",
+            "lesson": {
+              "name": "Основы финансовой грамотности",
+              "type": "practice",
+              "teacher": { "id": "kolesov", "name": "Колесов К.И." },
+              "room": "3308"
+            },
+            "windowMessage": "нч"
+          },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 4,
+            "startTime": "13:40",
+            "endTime": "15:15",
+            "lesson": {
+              "name": "Электротехника и электроника",
+              "type": "lecture",
+              "teacher": { "id": "kalinina", "name": "Калинина Н.А." },
+              "room": "1354"
+            },
+            "windowMessage": "нч"
+          },
+          {
+            "pairNumber": 5,
+            "startTime": "15:25",
+            "endTime": "17:00",
+            "lesson": {
+              "name": "Теория вероятностей и математическая статистика",
+              "type": "lecture",
+              "teacher": { "id": "sidorova", "name": "Сидорова Е.В." },
+              "room": "3301"
+            },
+            "windowMessage": null
+          },
+          {
+            "pairNumber": 6,
+            "startTime": "17:10",
+            "endTime": "18:45",
+            "lesson": {
+              "name": "Методы и средства защиты информации",
+              "type": "lecture",
+              "teacher": { "id": "zhukov", "name": "Жуков М.С." },
+              "room": "4201"
+            },
+            "windowMessage": null
+          }
+        ]
+      },
+      {
+        "weekday": 6,
+        "date": null,
+        "slots": [
+          {
+            "pairNumber": 1,
+            "startTime": "08:00",
+            "endTime": "09:35",
+            "lesson": {
+              "name": "Технологии программирования",
+              "type": "lab",
+              "teacher": { "id": "sannikov", "name": "Санников А.Н." },
+              "room": "4404"
+            },
+            "windowMessage": "1 п/гр. - 3, 7, 11, 15 н.; 2 п/гр. - 5, 9, 13, 17 н."
+          },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      }
+    ]
+  },
+  "evenWeek": {
+    "days": [
+      {
+        "weekday": 1,
+        "date": null,
+        "slots": [
+          {
+            "pairNumber": 1,
+            "startTime": "08:00",
+            "endTime": "09:35",
+            "lesson": {
+              "name": "Элективный курс по физической культуре",
+              "type": "practice",
+              "teacher": { "id": "default", "name": "преподаватель" },
+              "room": "спорткомплекс 6 учебного корпуса"
+            },
+            "windowMessage": null
+          },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 2,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 5,
+            "startTime": "15:25",
+            "endTime": "17:00",
+            "lesson": {
+              "name": "Теория вероятностей и математическая статистика",
+              "type": "practice",
+              "teacher": { "id": "tabakov", "name": "Табаков И.В." },
+              "room": "1363-6"
+            },
+            "windowMessage": "чн"
+          },
+          {
+            "pairNumber": 6,
+            "startTime": "17:10",
+            "endTime": "18:45",
+            "lesson": {
+              "name": "Теория вероятностей и математическая статистика",
+              "type": "practice",
+              "teacher": { "id": "tabakov", "name": "Табаков И.В." },
+              "room": "1363-6"
+            },
+            "windowMessage": "чн"
+          }
+        ]
+      },
+      {
+        "weekday": 3,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 5,
+            "startTime": "15:25",
+            "endTime": "17:00",
+            "lesson": {
+              "name": "Скриптовые языки программирования",
+              "type": "lecture",
+              "teacher": { "id": "bukhnin", "name": "Бухнин А.В." },
+              "room": "1329"
+            },
+            "windowMessage": null
+          },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 4,
+        "date": null,
+        "slots": [
+          {
+            "pairNumber": 1,
+            "startTime": "08:00",
+            "endTime": "09:35",
+            "lesson": {
+              "name": "Безопасность жизнедеятельности",
+              "type": "lecture",
+              "teacher": { "id": "konyukhova", "name": "Конюхова Н.С." },
+              "room": "6125"
+            },
+            "windowMessage": "чн"
+          },
+          {
+            "pairNumber": 2,
+            "startTime": "09:45",
+            "endTime": "11:20",
+            "lesson": {
+              "name": "Теория информации. данные, знания",
+              "type": "practice",
+              "teacher": { "id": "tabakov", "name": "Табаков И.В." },
+              "room": "6427"
+            },
+            "windowMessage": "чн"
+          },
+          {
+            "pairNumber": 3,
+            "startTime": "11:35",
+            "endTime": "13:10",
+            "lesson": {
+              "name": "Безопасность жизнедеятельности",
+              "type": "practice",
+              "teacher": { "id": "konyukhova", "name": "Конюхова Н.С." },
+              "room": "6429"
+            },
+            "windowMessage": "чн, 2, 6, 10, 14 недели"
+          },
+          { "pairNumber": 4, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      },
+      {
+        "weekday": 5,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 2,
+            "startTime": "09:45",
+            "endTime": "11:20",
+            "lesson": {
+              "name": "Электротехника и электроника",
+              "type": "practice",
+              "teacher": { "id": "kalinina", "name": "Калинина Н.А." },
+              "room": "1354"
+            },
+            "windowMessage": "чн"
+          },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          {
+            "pairNumber": 4,
+            "startTime": "13:40",
+            "endTime": "15:15",
+            "lesson": {
+              "name": "Теория вероятностей и математическая статистика",
+              "type": "lecture",
+              "teacher": { "id": "sidorova", "name": "Сидорова Е.В." },
+              "room": "3301"
+            },
+            "windowMessage": null
+          },
+          {
+            "pairNumber": 5,
+            "startTime": "15:25",
+            "endTime": "17:00",
+            "lesson": {
+              "name": "Основы финансовой грамотности",
+              "type": "lecture",
+              "teacher": { "id": "kolesov", "name": "Колесов К.И." },
+              "room": "3216"
+            },
+            "windowMessage": "чн"
+          },
+          {
+            "pairNumber": 6,
+            "startTime": "17:10",
+            "endTime": "18:45",
+            "lesson": {
+              "name": "Методы и средства защиты информации",
+              "type": "lecture",
+              "teacher": { "id": "zhukov", "name": "Жуков М.С." },
+              "room": "4201"
+            },
+            "windowMessage": null
+          }
+        ]
+      },
+      {
+        "weekday": 6,
+        "date": null,
+        "slots": [
+          { "pairNumber": 1, "startTime": "08:00", "endTime": "09:35", "lesson": null, "windowMessage": null },
+          { "pairNumber": 2, "startTime": "09:45", "endTime": "11:20", "lesson": null, "windowMessage": null },
+          { "pairNumber": 3, "startTime": "11:35", "endTime": "13:10", "lesson": null, "windowMessage": null },
+          { "pairNumber": 4, "startTime": "13:40", "endTime": "15:15", "lesson": null, "windowMessage": null },
+          { "pairNumber": 5, "startTime": "15:25", "endTime": "17:00", "lesson": null, "windowMessage": null },
+          { "pairNumber": 6, "startTime": "17:10", "endTime": "18:45", "lesson": null, "windowMessage": null },
+          { "pairNumber": 7, "startTime": "18:55", "endTime": "20:30", "lesson": null, "windowMessage": null }
+        ]
+      }
+    ]
+  }
+}
