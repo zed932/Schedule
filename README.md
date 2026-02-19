@@ -1,5 +1,7 @@
 # Документация проекта Schedule
 
+![Экран расписания](Schedule/Resources/Screenshots/mockup2.png)
+
 **Версия документа:** 1.0  
 **Дата актуализации:** 19 февраля 2026 г.
 
@@ -9,7 +11,7 @@
 
 | Расписание | Список преподавателей | Карточка преподавателя | Профиль |
 | :---: | :---: | :---: | :---: |
-| ![Расписание](Resources/Screenshots/schedule_screen.png) | ![Список преподавателей](Resources/Screenshots/teachers_list_screen.png) | ![Карточка преподавателя](Resources/Screenshots/teacher_detail_screen.png) | ![Профиль](Resources/Screenshots/profile_screen.png) |
+| ![Расписание](Resources/Screenshots/schedule_screen.png) | ![Список преподавателей](Resources/Screenshots/teachers_list_screen.png) | ![Карточка преподавателя](Resources/Screenshots/teacher_info_screen.png) | ![Профиль](Resources/Screenshots/profile_screen.png) |
 | *Занятия по дням недели* | *Список с именами и предметами* | *Детали: описание, посещение, автомат* | *Данные студента* |
 
 ---
